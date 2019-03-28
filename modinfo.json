@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Survivors_Lost_item",
+    "name": "Survivor's Lost item",
+    "authors": [ "YasuYasu" ],
+    "description": "茂みから生存者が落としていったバッグを拾えるようになります",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
