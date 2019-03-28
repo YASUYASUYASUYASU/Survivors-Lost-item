@@ -1,6 +1,6 @@
 ○Survivor's Lost item（生存者のバッグ追加mod)
 
-	[車両 - Survivor's Lost item mod]
+	[アイテム追加 - Survivor's Lost item mod]
 	(MOD識別名：Survivor's Lost item)
 
 	他の生存者が落としたアイテムを茂みから拾えるようになるmodとなります。
