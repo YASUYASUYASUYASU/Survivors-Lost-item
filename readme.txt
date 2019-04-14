@@ -19,6 +19,12 @@
 	modフォルダに配置して頂ければOKです。
 	
 	【更新履歴】
+	ver0.2 2019/04/14 公開
+	・開発版でマジックマッシュルーム、キノコ(毒)
+	  が削除された為、開発版でエラーが発生していた現象を対応
+	  ※現状、上記2アイテムを削除する対応としました。
+	・せっかくなので、バッグのタイルを追加
+	
 	ver0.1 2019/03/28 公開
 
 
@@ -85,9 +91,9 @@
 ・薬中
  1 メタンフェタミン(低品質) meth 瞬間接着剤 superglue ヘロイン heroin 注射器 syringe      
  2 マリファナ weed マリファナ(ジョイント) joint コカイン coke クラックパイプ crackpipe      
- 3 ヘロイン heroin マジックマッシュルーム dry_mushroom_magic 高純度コカイン crack 大麻草 cannabis      
+ 3 ヘロイン heroin  高純度コカイン crack 大麻草 cannabis      
  4 アルミ箔帽 tinfoil_hat ピンクタブレット lsd アルミ箔 aluminum_foil 科学実験器具セット chemistry_set_basic      
- 5 アセトン chem_acetone 本(上級物理化学) adv_chemistry マジックマッシュルーム dry_mushroom_magic 高純度コカイン crack      
+ 5 アセトン chem_acetone 本(上級物理化学) adv_chemistry  高純度コカイン crack      
                
 ・ヘビースモーカー
  1 噛みタバコ chaw 煙草(吸い殻) cig_butt ニコチンガム nic_gum        
@@ -99,7 +105,7 @@
 ・アル中
  1 ビール beer 肉(燻製) meat_smoked ビール(自家醸造) hb_beer        
  2 ヨーロピアンピルスナー european_pilsner スキットル flask_hip 種(トウモロコシ) seed_corn ビール(ペールエール) pale_ale      
- 3 混合アルコール(弱) mixed_alcohol_weak キノコ(毒) mushroom_poison インディアペールエール india_pale_ale        
+ 3 混合アルコール(弱) mixed_alcohol_weak インディアペールエール india_pale_ale        
  4 札束 money_bundle ジエチルエーテル ether ガラス瓶750ml bottle_glass 人間の脳(ホルマリン漬け) fluid_preserved_brain      
  5 ハチの巣 honeycomb ハニーボール honey_ant 種(マーロス) marloss_seed 本(自家醸造事典) brewing_cookbook      
                

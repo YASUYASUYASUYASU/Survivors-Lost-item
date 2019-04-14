@@ -363,7 +363,6 @@
     "time": 2000,
     "components": [
       [ [ "heroin"            ,  2 ] ],
-      [ [ "dry_mushroom_magic",  5 ] ],
       [ [ "crack"             ,  1 ] ],
       [ [ "cannabis"          ,  1 ] ]
     ],
@@ -386,7 +385,6 @@
     "components": [
       [ [ "chem_acetone"      ,  1 ] ],
       [ [ "adv_chemistry"     ,  1 ] ],
-      [ [ "dry_mushroom_magic",  5 ] ],
       [ [ "crack"             ,  2 ] ]
     ],
     "flags": [ "BLIND_EASY","UNCRAFT_LIQUIDS_CONTAINED" ]
@@ -470,8 +468,7 @@
     "time": 2000,
     "components": [
       [ [ "india_pale_ale"    ,  1 ] ],
-      [ [ "mixed_alcohol_weak",  1 ] ],
-      [ [ "mushroom_poison"   ,  5 ] ]
+      [ [ "mixed_alcohol_weak",  1 ] ]
     ],
     "flags": [ "BLIND_EASY","UNCRAFT_LIQUIDS_CONTAINED" ]
   },{
